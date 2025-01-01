@@ -66,6 +66,3 @@ This project utilizes the following libraries:
 
 Special thanks to the developers of these libraries for their contributions to the open-source community.
 
-## Contact
-If you have any questions or feedback, feel free to reach out to me at [souhail.mah@gmail.com].
-
